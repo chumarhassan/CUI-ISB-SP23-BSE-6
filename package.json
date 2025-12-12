@@ -1,0 +1,25 @@
+{
+  "name": "cui-isb-sp23-bse-6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "SP23-BSE-021-deleteClass.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chumarhassan/CUI-ISB-SP23-BSE-6.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/chumarhassan/CUI-ISB-SP23-BSE-6/issues"
+  },
+  "homepage": "https://github.com/chumarhassan/CUI-ISB-SP23-BSE-6#readme",
+  "dependencies": {
+    "express": "^5.2.1",
+    "mongoose": "^9.0.1"
+  }
+}
