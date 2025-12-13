@@ -33,8 +33,6 @@
 - [Running the Application](#-running-the-application)
 - [API Documentation](#-api-documentation)
 - [User Credentials](#-user-credentials)
-- [Screenshots](#-screenshots)
-- [Team Members](#-team-members)
 - [License](#-license)
 
 ---
